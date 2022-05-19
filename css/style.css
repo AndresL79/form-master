@@ -1,0 +1,20 @@
+/* CSS Document */
+body{ 
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover; 
+}
+
+h1{
+font-family: 'Roboto', sans-serif;
+}
+
+.info{
+padding-bottom:10px;
+}
+
+.result h2{text-align:center;}
+
+
+
+
